@@ -1,0 +1,1 @@
+var serverApiUrl = 'http://localhost:14216/api/ParserApi';
